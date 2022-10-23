@@ -4,23 +4,19 @@ Hi 👋 My name is Enzo
 Translator and Newbie Dev
 -------------------------
 
-I've been learning English since I'm little and I love helping developers translate their project, which lets them focus more on developing than translating. I'm also starting to learn Web Development but I'm still a newbie so don't expect any project yet lol.
+I've been learning English since I'm little and I love helping developers translate their project, which lets them focus more on developing than translating. I'm also starting to learn Web Development, C/C++.
 
 * 🌍  I'm based in Dole, France
 * ✉️  You can contact me at [sunlightkim@etik.com](mailto:sunlightkim@etik.com)
 * 🚀  I'm currently working on [SnailyCAD (French Translation)](http://github.com/SnailyCAD/snaily-cadv4)
-* 🧠  I'm learning HTML, CSS, JavaScript, Go and Python
+* 🧠  I'm learning C/C++ and Web Dev
 * 🤝  I'm open to collaborating on any project that requires French translation
 * ⚡  I'm secretely the world dominator... but shhh don't tell anyone
 
 ### Skills
 
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
