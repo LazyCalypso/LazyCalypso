@@ -1,40 +1,24 @@
-Hi 👋 My name is Enzo
-=====================
-
-Translator and Newbie Dev
--------------------------
-
-I've been learning English since I'm little and I love helping developers translate their project, which lets them focus more on developing than translating. I'm also starting to learn Web Development, C/C++.
-
-* 🌍  I'm based in Dole, France
-* ✉️  You can contact me at [sunlightkim@etik.com](mailto:sunlightkim@etik.com)
-* 🚀  I'm currently working on [SnailyCAD (French Translation)](http://github.com/SnailyCAD/snaily-cadv4)
-* 🧠  I'm learning C/C++ and Web Dev
-* 🤝  I'm open to collaborating on any project that requires French translation
-* ⚡  I'm secretely the world dominator... but shhh don't tell anyone
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on creating a video game<br>👯 I’m looking to collaborate on anything, really<br>🌱 I’m currently learning C/C++ and WebDev<br>💬 Ask me about anything<br>⚡ Fun fact: I enjoy coffee
 
 
-### Socials
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bezunga_) 
 
-<p align="left"> <a href="https://discord.com/users/936337363158859806" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SunlightKim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SunlightKim&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SunlightKim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunlightKim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Badges
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SunlightKim&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<b>My GitHub Stats</b>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<a href="http://www.github.com/SunlightKim"><img src="https://github-readme-stats.vercel.app/api?username=SunlightKim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SunlightKim's GitHub stats" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=SunlightKim&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/SunlightKim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SunlightKim&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/SunlightKim/snaily-cadv4" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SunlightKim&repo=snaily-cadv4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
