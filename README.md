@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="150" src="https://sunlightkim.github.io/fuzzy-happiness/src/favicon/Cal_PFP.png"  />
+<img align="left" height="150" src="https://git.zerobytes.fr/fuzzy-happiness/src/favicon/Cal_PFP.png"  />
 
 ###
 
